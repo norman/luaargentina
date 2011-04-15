@@ -1,0 +1,31 @@
+html {
+  font-size: 100%;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  font-size: .85em;
+  margin: 10px 0 10px 0;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#wrapper {
+  width: 400px;
+  margin: auto;
+}
+
+#logo {
+  margin: 10px 0 20px 0;
+  height: 73px;
+  line-height: 87px;
+  padding: 0 0 0 75px;
+  background: transparent url(/images/logo.png) top left no-repeat
+}
+
+#logo span {
+  display: none;
+}
